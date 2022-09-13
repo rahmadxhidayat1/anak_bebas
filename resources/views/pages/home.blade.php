@@ -7,7 +7,7 @@
         <div class="bannerw3-content mt-lg-0 mt-4">
           <span class="title-small">Hey there!</span>
           <h3 class="mb-2 title">
-            <span> Looking for my putra<br>next
+            <span> Looking for my PUTRA<br>next
               opportunity
               to make a change.</span>
             The digital way. </h3>
