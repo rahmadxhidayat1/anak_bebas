@@ -30,7 +30,7 @@
             <h5 class="title-subhny mb-2">About Me</h5>
             <h3 class="title-w3l"><span>I'm a Passionate designer & developer who loves simplicity in things and crafts
                 beautiful user</span> interfaces with love.</h3>
-            <p class="mt-4">I am 29 years old front-end developer from Nowy Sacz in Poland - in the busienss since 2004!
+            <p class="mt-4">I am 19 years old front-end developer from Nowy Sacz in Poland - in the busienss since 2004!
 
               Through my 5 years of my career I have been working for over 500 clients from all over the World. My
               speciality is webdesign and Angular development. I guarentee great communication and quick turnaround.</p>
